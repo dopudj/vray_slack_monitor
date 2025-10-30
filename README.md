@@ -6,6 +6,9 @@
 
 A Windows system tray application that automatically monitors V-Ray render outputs and posts completed renders to Slack channels. Perfect for architects and designers who want to stay notified about render completion without being tied to their workstation.
 
+![notification](./assets/vray_slack_monitor.gif)
+
+
 ## ✨ Features
 
 - 🎨 **Automatic Render Detection** - Monitors all Export folders under your Projects directory
@@ -135,6 +138,7 @@ Filename filter
   - `final111-effectResult.jpg`  
 
 Files that do not include "effectResult" in the name will be ignored by the monitor.
+
 
 ## 🎮 Usage
 
