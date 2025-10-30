@@ -1,0 +1,4 @@
+slack-sdk>=3.19.0
+watchdog>=2.1.9
+pystray>=0.19.4
+Pillow>=9.3.0
